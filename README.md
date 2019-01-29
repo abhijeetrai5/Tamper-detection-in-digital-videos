@@ -1,5 +1,5 @@
 # Tamper-detection-in-digital-videos
-A peice of code for detecting scene breaks, frames insertion in digital videos using the edge detection algorithm.
+A piece of code for detecting scene breaks, frames insertion in digital videos using the edge detection algorithm.
 
 ## Motivation
 Now days there are lots of software’s available in the market for editing
